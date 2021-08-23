@@ -1,0 +1,12 @@
+{
+  "name": "web3-authenticator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zikunfan/web3-authenticator.git",
+  "author": "Zikun Fan <kun@crust.network>",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^5.6.1",
+    "http-proxy": "^1.18.1"
+  }
+}
